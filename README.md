@@ -1,3 +1,3 @@
 # pygame_platformer
 
-Did I get this set up right
+This project is my first attempt at making a platformer in Pygame.
